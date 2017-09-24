@@ -1,0 +1,6 @@
+[package]
+name = "sandbox-helloworld"
+version = "0.1.0"
+authors = ["Ryuichi Maeno <ryuone@gmail.com>"]
+
+[dependencies]
